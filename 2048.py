@@ -1,4 +1,4 @@
-from Tkinter import Frame, Label, CENTER
+from tkinter import Frame, Label, CENTER
 
 import LogicsFinal
 import constants as c
